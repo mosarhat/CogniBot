@@ -19,9 +19,6 @@ npm install --save-dev eslint @eslint/js
 
 From here, we need to set-up a configuration file in our directory called eslint.config.js, and set rules for it. The following website is the ruleset I'll use: https://discordjs.guide/preparations/setting-up-a-linter.html#installing-a-linter.
 
-
-
-
 4. Added my bot token to ```config.json```.
 5. Run ```npm start``` to start the bot..
 
