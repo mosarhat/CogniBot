@@ -1,1 +1,3 @@
-/cfg
+# Ignore config.json
+
+config.json
